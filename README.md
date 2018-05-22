@@ -1,5 +1,10 @@
 # Free trade simulator
 
+## How to run
+- `yarn`
+- `yarn start`
+- open <http://localhost:3000>
+
 ## I want to play a game
 Let's play a very simple game. At the beginning, we have 100 people, each with 100 tokens. Each
 round each person gives one of his tokens to another person that is randomly chosen (could be
